@@ -12,6 +12,6 @@ entries:
     - https://github.com/vectorizedio/helm-charts
     type: application
     urls:
-    - helm/redpanda-1.0.7.tgz
+    - https://tablecheck-labs.github.io/redpanda-helm-chart/helm/redpanda-1.0.7.tgz
     version: 1.0.7
 generated: "2022-04-20T14:33:59.673484+09:00"
