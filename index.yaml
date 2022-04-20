@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  redpanda:
+  - apiVersion: v2
+    appVersion: 21.11.11
+    created: "2022-04-20T14:33:59.675759+09:00"
+    deprecated: true
+    description: Redpanda is the real-time engine for modern apps.
+    digest: 737df09f3b043a45e676659a01cff6e990f8d71b1e377865a810b51709fc6fb1
+    name: redpanda
+    sources:
+    - https://github.com/vectorizedio/helm-charts
+    type: application
+    urls:
+    - helm/redpanda-1.0.7.tgz
+    version: 1.0.7
+generated: "2022-04-20T14:33:59.673484+09:00"
