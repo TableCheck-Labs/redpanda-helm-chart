@@ -1,5 +1,5 @@
 # redpanda-helm-chart
-Downloads and serves the Redpanda Helm Chart via HTTP.
+Downloads and serves the [Redpanda Helm Chart](https://github.com/redpanda-data/helm-charts) via HTTP.
 
 ## Helm
 
